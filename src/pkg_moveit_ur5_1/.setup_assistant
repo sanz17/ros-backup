@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ebot_gazebo
+    relative_path: urdf/ebot_trolley_ur5.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ebot.srdf
+  CONFIG:
+    author_name: sanhita
+    author_email: kundusanhita13@gamail.com
+    generated_timestamp: 1638196250
