@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/sanhita/catkin_ws/src
+# Build directory: /home/sanhita/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("eYRC-2021_Agribot/agri_bot_moveit")
+subdirs("champ/champ")
+subdirs("champ/champ_bringup")
+subdirs("champ/champ_config")
+subdirs("champ/champ_description")
+subdirs("champ/champ_navigation")
+subdirs("champ_teleop")
+subdirs("eYRC-2021_Agribot/ebot_gazebo")
+subdirs("pkg_moveit_ur5_1")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_driver")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_simulation/robotiq_85_gazebo")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_gripper")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_simulation/robotiq_85_simulation")
+subdirs("champ/champ_msgs")
+subdirs("eYRC-2021_Agribot/ur_description")
+subdirs("champ/champ_gazebo")
+subdirs("ebot_nav")
+subdirs("pkg_ros_basics")
+subdirs("examples_pkgs/pkg_t2_examples")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_bringup")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_description")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_msgs")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/si_utils")
+subdirs("task0")
+subdirs("eYRC-2021_Agribot/gazebo_ros_link_attacher")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_simulation/roboticsgroup_gazebo_plugins")
+subdirs("eYRC-2021_Agribot/tomato_gazebo")
+subdirs("champ/champ_base")
+subdirs("eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_moveit_config")
